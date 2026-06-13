@@ -7,7 +7,7 @@ Personal vault for university courses and study materials, structured using **Ob
 
 ## Repository Contents
 
-* `Physics/` — 2nd semester physics exam preparation (contains theory, mathematical derivations, and tasks).
+* `Physics/` — 2nd semester physics exam preparation (contains theory, mathematical derivations, and tasks). Navigation: [[_INDEX]]
 
 ---
 
